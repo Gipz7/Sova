@@ -2,7 +2,7 @@ def calculate_net_salary(
     gross_salary,
     tax_class=1,
     has_children=False,
-    health_insurance_percent=14.6,
+    health_insurance_percent=13.6,
     additional_health_insurance=1.3,
     church_tax=False
 ):
